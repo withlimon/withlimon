@@ -1,5 +1,1 @@
-Hi,
-I am Limon Das.
-I am a Student of Electrical & Electronic Engineering at Khulna University of Engineering & Technology.
-I pass my leisure though game development.
-You will find some of these game here.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=634AF7&background=ECECEC&repeat=false&width=1000&lines=Hi%2C+I+am+Limon+Das.;++I+am+a+Student+of+Electrical+%26+Electronic+Engineering+.;I+am+interested+in+VLSI+Design.)](https://git.io/typing-svg)
